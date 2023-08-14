@@ -1,0 +1,22 @@
+{
+  "name": "rspack-react-ts-starter",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "rspack serve",
+    "build": "rspack build"
+  },
+  "dependencies": {
+    "@mui/icons-material": "^5.14.3",
+    "@mui/lab": "5.0.0-alpha.139",
+    "@mui/material": "^5.14.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@rspack/cli": "^0.2.11",
+    "@types/react": "18.2.20",
+    "@types/react-dom": "18.2.7",
+    "typescript": "^5.1.6"
+  }
+}
